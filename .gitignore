@@ -1,0 +1,7 @@
+.idea
+docker/.env.local
+.DS_Store
+# Data folder containing CSV files
+backend/data/
+backend/scripts
+.env
