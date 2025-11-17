@@ -132,13 +132,13 @@ const Footer: React.FC = () => {
                 <Target size={24} className="text-offwhite" />
               </a>
               <a
-                href="https://www.instagram.com/muj.hackx/"
+                href="https://www.instagram.com/"
                 className="flex h-12 w-12 cursor-pointer items-center justify-center rounded-full transition-colors hover:bg-white/10"
               >
                 <Instagram size={24} className="text-offwhite" />
               </a>
               <a
-                href="https://www.linkedin.com/company/mujhackx/"
+                href="https://www.linkedin.com/"
                 className="flex h-12 w-12 cursor-pointer items-center justify-center rounded-full transition-colors hover:bg-white/10"
               >
                 <Image
